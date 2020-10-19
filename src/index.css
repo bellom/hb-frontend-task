@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mushroom {
+  height: 12px;
+  width: 12px;
+  margin: 8px;
+}
+
+.mario {
+  height: 28px;
+  width: 28px;
+}

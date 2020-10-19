@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
+import './Board.css'
 import Cell from '../Cell';
 
 class Board extends Component {
-
   createCells = (row) => {
     const length = this.props.cols
     const array = Array(length).fill(null);
