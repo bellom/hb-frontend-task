@@ -13,3 +13,32 @@ Watch the video: https://vimeo.com/219341567
 
 # Maze Problem Game
 
+<img width="991" alt="maze-problem" src="https://user-images.githubusercontent.com/31897434/96456680-bc242d00-1216-11eb-90d4-f61cb0317b17.png">
+
+
+## Installation
+
+1. Clone the project to your local directory
+
+```
+git clone https://github.com/bellom/hb-frontend-task.git
+```
+
+2. Run `cd hb-frontend-task`
+
+3. Run `git checkout feature-branch`
+
+4. Run `npm install`
+
+5. Run `npm start`
+
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+
+## Contributors
+* [Oluwaseun Bello](https://github.com/bellom)

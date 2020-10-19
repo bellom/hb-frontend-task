@@ -57,7 +57,7 @@ class App extends Component {
     const cells = current.cells.slice();
 
     if (cells.every(cell => cell === null || cell.type === (<Mario />).type)) {
-      alert(`Game over. Total moves to save princess: ${this.state.moves}`);
+      alert(`Game over!. Total moves to hit all mushroom: ${this.state.moves}`);
     }
   }
 
