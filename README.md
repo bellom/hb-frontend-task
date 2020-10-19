@@ -26,11 +26,9 @@ git clone https://github.com/bellom/hb-frontend-task.git
 
 2. Run `cd hb-frontend-task`
 
-3. Run `git checkout feature-branch`
+3. Run `npm install`
 
-4. Run `npm install`
-
-5. Run `npm start`
+4. Run `npm start`
 
 
 ## Technologies
